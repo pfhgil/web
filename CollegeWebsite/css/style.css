@@ -1,16 +1,6 @@
 .bg_rectangle 
 {
 	position: absolute;
-	width: 2500px;
-	height: 1300px;
-	
-	background: #D9D9D9;
-	mix-blend-mode: normal;
-}
-
-.fg_rectangle 
-{
-	position: absolute;
 	top: 48px;
 	width: 2500px;
 	height: 1260px;
@@ -147,19 +137,19 @@
 	left: 2151px;
 }
 
-.contacts_text
-{	
-	position: absolute;
-	top: 868px;
-}
-
 li
 {
 	width: 100%;
 	padding: 3px;
 }
 
-.contacts_list
+.chancellery_text
+{	
+	position: absolute;
+	top: 868px;
+}
+
+.chancellery_list
 {	
 	position: absolute;
 	top: 888px;
